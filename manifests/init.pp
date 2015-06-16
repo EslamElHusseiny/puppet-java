@@ -1,7 +1,7 @@
 class java (
   $source_url = "https://download.oracle.com/otn-pub/java/jdk/7u79-b15",
-  $java_major_version = 7a,
-  $java_minor_version = 79b,
+  $java_major_version = 7,
+  $java_minor_version = 79,
   ) {
 
   $java_filename = "jdk-${java_major_version}u${java_minor_version}-linux-x64.rpm"
